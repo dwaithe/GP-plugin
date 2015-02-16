@@ -2,7 +2,7 @@
 Generalized Polarization plugin for Fiji and ImageJ described in [1]. 
 
 To download the plugin follow the following link:
-http://sara.molbiol.ox.ac.uk/dwaithe/software/GP_plugIn.jar
+http://sara.molbiol.ox.ac.uk/dwaithe/software/GP_PlugIn.jar
 
 
 
