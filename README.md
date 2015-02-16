@@ -8,8 +8,8 @@ Copy the '.jar' file into your ImageJ/Fiji plugins folder. Restart ImageJ/Fiji. 
 
 
 [1] Spectral Imaging to Measure Heterogeneity in Membrane Lipid Packing (2015)
- Erdinc Sezgin, Dominic Waithe, Jorge Bernardino de la Serna, Christian Eggeling. ChemPhysChem.
- DOI: 10.1002/cphc.201402794
+Erdinc Sezgin, Dominic Waithe, Jorge Bernardino de la Serna, Christian Eggeling. ChemPhysChem.
+DOI: 10.1002/cphc.201402794
 
 
 
