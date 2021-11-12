@@ -2,7 +2,7 @@
 Generalized Polarization plugin for Fiji and ImageJ as described in [1]. 
 
 To download the plugin click the following link:
-http://sara.molbiol.ox.ac.uk/dwaithe/download_page.html#GP
+https://drive.google.com/file/d/1GRcjxbOY4tEVqvkXSn78gOEQEtry7lhW/view?usp=sharing
 
 Copy the '.jar' file into your ImageJ/Fiji plugins folder. Restart ImageJ/Fiji. The GP plugin will appear in your Plugins menu as 'GP PlugIn'.
 
